@@ -1,0 +1,3 @@
+# This is folder is cretaed after craeting a new branch on git and switching as well
+reason was to get knowledge about merging on branch
+# this file is only affecting the new branch not the main branch 
